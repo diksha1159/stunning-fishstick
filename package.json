@@ -1,0 +1,17 @@
+{
+  "name": "cabs-comparision-main",
+  "version": "1.0.0",
+  "description": "Collective cabs service",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diksha",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "nodemailer": "^6.9.1",
+    "puppeteer": "^19.9.1",
+    "twilio": "^4.10.0"
+  }
+}
